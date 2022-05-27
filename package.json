@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/jonrandahl/solid-octo-train/issues"
   },
-  "homepage": "https://github.com/jonrandahl/solid-octo-train#readme",
-  "publishConfig": {
-    "@jonrandahl:registry": "https://npm.pkg.github.com"
-  }
+  "homepage": "https://github.com/jonrandahl/solid-octo-train#readme"
 }
