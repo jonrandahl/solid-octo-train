@@ -1,0 +1,19 @@
+{
+  "name": "solid-octo-train",
+  "version": "0.0.1",
+  "description": "learing about git package registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonrandahl/solid-octo-train.git"
+  },
+  "author": "Jon Humphrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonrandahl/solid-octo-train/issues"
+  },
+  "homepage": "https://github.com/jonrandahl/solid-octo-train#readme"
+}
